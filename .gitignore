@@ -155,3 +155,4 @@ typings/
 ### Own .gitignores ###
 # public file
 public/*
+.sass-cache/*
